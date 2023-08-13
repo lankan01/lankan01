@@ -4,12 +4,6 @@
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   width="300px"
-  style={{
-    borderRadius: "50%", // This makes the image circular
-    display: "block",    // Ensures proper centering
-    margin: "0 auto"     // Centers the image horizontally
-  }}
-  alt="Circular Image"
 />  
   <div id="badges">
     <a href="https://www.linkedin.com/in/pradeebajega/" target="_blank" rel="noopener noreferrer">

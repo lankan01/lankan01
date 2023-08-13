@@ -1,14 +1,22 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-  
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="300px"
+  style={{
+    borderRadius: "50%", // This makes the image circular
+    display: "block",    // Ensures proper centering
+    margin: "0 auto"     // Centers the image horizontally
+  }}
+  alt="Circular Image"
+/>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/pradeebajega/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=lankan01&style=flat-square&color=blue" alt=""/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=lankan01&style=flat-square&color=blue" alt=""/>
 </div>
 
 - 🔭 I’m currently working on Bridgeit - a platform to help companies find developer and data science talent more easily.

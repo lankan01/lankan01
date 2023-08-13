@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**lankan01/lankan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pradeebajega/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=lankan01&style=flat-square&color=blue" alt=""/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Bridgeit - a platform to help companies find developer and data science talent more easily.
+- 🌱 I’m currently learning React on Next.js, Firebase, Node.js and Figma.
+
+- 📫 How to reach me: pjega92@gmail.com
+

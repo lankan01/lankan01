@@ -12,21 +12,14 @@ Currently, I'm focusing on:
 - 🌱 Diving into **Node.js** to build scalable server-side applications.
 - 🌱 Improving my design skills with **Figma** to create user-friendly interfaces.
 
-Feel free to connect with me on <a href="https://www.linkedin.com/in/pradeebajega/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> to discuss tech, startups, or anything interesting!
-
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pradeebajega/) to discuss tech, startups, or anything interesting!
 
 <div id="header" align="center">
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="300px"
-/>  
+      <img
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        width="300px"
+      />  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/pradeebajega/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=lankan01&style=flat-square&color=blue" alt=""/>
   </div>
 </div>

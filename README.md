@@ -12,7 +12,7 @@ Currently, I'm focusing on:
 - 🌱 Diving into **Node.js** to build scalable server-side applications.
 - 🌱 Improving my design skills with **Figma** to create user-friendly interfaces.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pradeebajega/) to discuss tech, startups, or anything interesting!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pradeebajega/)
 
 
   <div align="center">

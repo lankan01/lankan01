@@ -3,8 +3,6 @@
 ## About Me
 Originally trained as a doctor in London, then trained in business in Paris, now in the startup ecosystem in Southeast Asia.
 
-- 🔭 I’m currently working on **Bridgeit** - a platform to help companies find developer and data science talent more easily.
-
 ## What I'm Learning
 Currently, I'm focusing on:
 - 🌱 Learning **React on Next.js** for building dynamic and performant web applications.

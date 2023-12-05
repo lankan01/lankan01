@@ -13,9 +13,7 @@ Currently, I'm focusing on:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pradeebajega/)
 
 
-  <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Profile Image"/>
-  </div>
+  ![Leetcode Stats](https://leetcard.jiggaman3.cool/jiggaman3)
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=lankan01&style=flat-square&color=blue" alt="Profile Views Badge"/>

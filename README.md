@@ -12,6 +12,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pradeebaj
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/jiggaman3)
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=lankan01&style=flat-square&color=blue" alt="Profile Views Badge"/>
-</div>
+
